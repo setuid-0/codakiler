@@ -1,25 +1,6 @@
 {
-  "title": "Fedora Terminal",
-  "description": "Un escenario básico con una terminal Fedora para prácticas generales.",
-  "difficulty": "Beginner",
-  "time": "5 minutes",
-  "details": {
-    "steps": [
-      {
-        "title": "Introducción",
-        "text": "Bienvenido al escenario de Fedora. Usa esta terminal para practicar comandos básicos de Linux."
-      }
-    ],
-    "intro": {
-      "text": "Bienvenido al entorno Fedora. En este escenario, tendrás acceso a una terminal interactiva.",
-      "courseData": ""
-    }
-  },
+  "title": "Ubuntu simple",
   "backend": {
-    "imageid": "fedora"
-  },
-  "environment": {
-    "showide": false
+    "imageid": "ubuntu"
   }
 }
-
