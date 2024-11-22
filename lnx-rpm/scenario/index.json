@@ -16,7 +16,7 @@
     }
   },
   "backend": {
-    "imageid": "ubuntu:latest"
+    "imageid": "fedora"
   },
   "environment": {
     "showide": false
